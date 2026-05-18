@@ -55,7 +55,7 @@
     "karma-qunit": "4.1.2",
     "karma-webkit-launcher": "2.1.0",
     "load-grunt-tasks": "5.1.0",
-    "multiparty": "4.2.3",
+    "multiparty": "4.3.0",
     "native-promise-only": "0.8.1",
     "playwright-webkit": "1.30.0",
     "promises-aplus-tests": "2.1.2",
